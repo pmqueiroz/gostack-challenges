@@ -13,7 +13,7 @@ function App() {
   }, []);
 
   async function handleAddRepository() {
-    const response = await api.post('respositories', {
+    const response = await api.post('repositories', {
       title: 'Cleiton',
       url: 'https://github.com/pmqueiroz',
       techs: ['Node.ks', 'ReactJS' ]
@@ -37,7 +37,7 @@ function App() {
           <li key={repository.id}>
             {repository.title}
 
-            <button onClick={() => handleRemoveRepository(1)}>
+            <button onClick={() => handleRemoveRepository(repository.id)}>
               Remover
             </button>
           </li>
