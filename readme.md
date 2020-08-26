@@ -11,7 +11,7 @@
 -  02 - React.js Concepts 🚀 Done :heavy_check_mark:
 -  03 - React Native Concepts 🚀 Done :heavy_check_mark:
 -  #### Level 2
--  04 - Node.js Fundamentals :construction: In progress.. :construction:
+-  04 - Node.js Fundamentals 🚀 Done :heavy_check_mark:
 -  05 - Database Upload :construction: In progress.. :construction:
 -  #### Level 3
 -  06 - React.js Fundamentals :construction: In progress.. :construction:
